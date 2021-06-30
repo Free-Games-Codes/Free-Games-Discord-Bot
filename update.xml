@@ -5,7 +5,7 @@
     <item>
         <title>Version 1.0.7</title>  
         <enclosure url="https://play.google.com/store/apps/details?id=com.freegamescodes.freegamescodes" sparkle:version="1.0.7" sparkle:os="android" />
-        <sparkle:version>6.0</sparkle:version>
+        <sparkle:version>1.0.7</sparkle:version>
     </item>  
   </channel>
 </rss>
